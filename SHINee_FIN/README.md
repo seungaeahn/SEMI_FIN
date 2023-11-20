@@ -1,10 +1,15 @@
 ### README sample (프로젝트 리드미 사용 방법)
 # SHINee Music 세미 프로젝트
 
+<p align="center">
+  <br>
+  이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
+  <img src="main1.png">
+  <img src="main2.png">
+  <br>
+</p>
 
 
-![main1]
-![main2] 
 
 ## 프로젝트 소개
 
